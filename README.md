@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://cutt.ly/Htg1IB3E">
+  <a href="https://cutt.ly/RtOd2y5o">
     <img src="https://img.shields.io/badge/Open_SideStore_Pro_Guide-0EA5E9?style=for-the-badge&logo=sidestore&logoColor=white"
          height="84"
          style="border-radius:42px; box-shadow:0 20px 60px rgba(14,165,233,0.6);">
